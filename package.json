@@ -1,0 +1,24 @@
+{
+  "name": "apollo-unit-testing-using-mockedprovider-and-react-test-renderer",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "apollo-boost": "0.1.12",
+    "graphql": "0.13.2",
+    "react": "16.3.2",
+    "react-apollo": "latest",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4",
+    "react-test-renderer": "16.4.1",
+    "waait": "1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
